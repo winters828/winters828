@@ -1,4 +1,4 @@
 - 👋 Hello, I'm Samuel Winter but Sam works just fine.
-- 👀 I’m interested in whatever will help me gain experience in the world of programming but my personal projects usually involve game development.
-- 🌱 I’m currently learning anything I get introduced to that will help me in the future.
-- 📫 Winters828@strose.edu 
+- 👀 I’m interested in whatever will help me gain experience in the world of programming currently I'm doing that through Wiley Edge and am grateful for the opportunity.
+- 🌱 I’m currently learning anything I get introduced to that will help me in the future but my main focus during my training course is Maven Java projects with the Spring framework.
+- 📫 Winters828@strose.edu
